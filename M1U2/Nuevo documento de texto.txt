@@ -2,4 +2,4 @@ hola
 nose
 como
 estas
-tuvieja
+ ahora lo quiero borrar
